@@ -1,0 +1,19 @@
+AWS Elastic Transcoder (AET):
+
+Transcoding: Convert source video files into multiple resolutions and bitrates for adaptive streaming.
+Automation: Automate the creation of different video renditions without manual intervention.
+Compatibility: Ensure the video formats are compatible with various devices and streaming requirements.
+
+
+Amazon S3:
+
+Storage: Store the original video files and the transcoded output securely.
+Scalability: Provide scalable storage that can handle large amounts of video data.
+Integration: Seamlessly integrate with Elastic Transcoder for input and output file management.
+
+
+Amazon CloudFront:
+
+Content Delivery: Distribute video content globally with low latency and high transfer speeds.
+Caching: Utilize edge locations to cache video segments for faster delivery to end-users.
+Adaptive Streaming: Support adaptive bitrate streaming by serving HLS/DASH manifests and segments efficiently.
